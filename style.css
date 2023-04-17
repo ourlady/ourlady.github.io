@@ -1,0 +1,35 @@
+html {
+
+  height: 100%;
+
+  width: 100%;
+
+  text-align: center;
+
+}
+
+h1{
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+h2, h3{
+
+  padding: 0;
+
+  margin: 0;
+
+  font-weight: normal;
+
+}
+
+p {
+
+  margin-left: 10%;
+
+  margin-right: 10%;
+
+}
